@@ -1,0 +1,4 @@
+The main job of this class is to validate a list of string inputs and only keep the positive integers.
+The display validation message method prints a message for each value that is checked.
+The validate positive integers method loops through a list of strings and tries to convert them to 
+integers before adding only the valid ones to a new list.
